@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seoulmasaji.shop/sitemap.xml
+Sitemap: https://se-in-gy-massage.store/sitemap.xml
